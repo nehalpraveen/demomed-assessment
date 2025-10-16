@@ -1,6 +1,0 @@
-__pycache__/
-*.pyc
-.venv/
-.env
-.env.*
-patient_risk_summary.csv
