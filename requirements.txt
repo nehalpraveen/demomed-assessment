@@ -1,4 +1,0 @@
-requests>=2.32
-pydantic>=2.8
-tenacity>=9.0    # retry helper (or roll your own)
-pytest>=8.0
